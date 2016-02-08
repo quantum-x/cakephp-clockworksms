@@ -1,0 +1,19 @@
+{
+    "name": "quantum-x/cakephp-clockworksms",
+    "description": "Clockwork SMS CakePHP 2.X plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "quantum-x",
+            "homepage": "https://github.com/quantum-x",
+            "role": "Author"
+        }
+    ],
+    "type": "cakephp-plugin",
+    "require": {
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "ClockworkSMS"
+    }
+}
